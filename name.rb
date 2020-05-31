@@ -1,4 +1,7 @@
+puts 'hello'
+
 puts 'My name is Mrs. Gabbard.  And your name is...?'
+
 name = gets.chomp
 
 if name != name.capitalize
